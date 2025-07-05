@@ -1,0 +1,14 @@
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\PalindromeChecker.AssemblyInfo.cs
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\bin\Debug\net9.0\PalindromeChecker.exe
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\bin\Debug\net9.0\PalindromeChecker.deps.json
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\bin\Debug\net9.0\PalindromeChecker.runtimeconfig.json
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\bin\Debug\net9.0\PalindromeChecker.dll
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\bin\Debug\net9.0\PalindromeChecker.pdb
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\PalindromeChecker.dll
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\refint\PalindromeChecker.dll
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\PalindromeChecker.pdb
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\PalindromeChecker.genruntimeconfig.cache
+C:\Users\juand\Proyectos\cadena_prueba_tecnica\PalindromeChecker\PalindromeChecker\obj\Debug\net9.0\ref\PalindromeChecker.dll
