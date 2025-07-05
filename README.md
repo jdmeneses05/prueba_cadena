@@ -65,7 +65,7 @@ Todos los archivos están escritos en Markdown, con tablas, código, y comentari
 
 ##  Parte 3: Documentación PDF
 
- Carpeta: `documentacion/`
+ Carpeta: `/`
 
 Incluye la versión PDF de toda la prueba.
 
