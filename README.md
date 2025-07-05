@@ -83,7 +83,7 @@ dotnet test
 dotnet run          
 ```
 
-###  C# - Python
+### - Python
 
 ```bash
 cd CasoPython/suma_primos
