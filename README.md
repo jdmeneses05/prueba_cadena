@@ -82,9 +82,8 @@ cd PalindromeChecker/PalindromeChecker
 dotnet test         
 dotnet run          
 ```
-##  Cómo ejecutar los ejemplos
 
-###  C# - PalindromeChecker
+###  C# - Python
 
 ```bash
 cd CasoPython/suma_primos
